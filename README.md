@@ -6,6 +6,7 @@ Types:
 
 Pairing Heap is of two types.
 1- Minimium Pairing Heap.
+
 2- Maximum Pairing Heap.
 
 Minimum pairing heap is implemented here.
@@ -24,3 +25,10 @@ The operations of a min Pairing heap are:
 2- Merge()
 
 3- FindMinimum()
+
+4- Delete()
+
+5- GetSize()
+
+6- BubbleUp().  [This is basically the two pass method used for deleting]
+
