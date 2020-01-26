@@ -4,7 +4,9 @@ Pairing Heaps utilizes heap data structure to give efficient output by fast amor
 
 Types:
 
-Pairing Heap is of two types. 1- Minimium Pairing Heap.
+Pairing Heap is of two types. 
+
+1- Minimium Pairing Heap.
 
 2- Maximum Pairing Heap.
 
