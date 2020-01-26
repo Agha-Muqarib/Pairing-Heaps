@@ -14,11 +14,11 @@ Minimum pairing heap is implemented here.
 
 Advantages:
 
-Time complexity for different operations is less in pairing heaps as compared to other heaps like Fibonacci Heap ar a simple Binary Heap. Moreover,it is a an efficient form of a Fibonacci Heap.
+Time complexity for different operations is less in pairing heaps as compared to other heaps like Fibonacci Heap or a simple Binary Heap atcetera. Moreover,it is a an efficient form of a Fibonacci Heap which makes it better from other heaps.
 
 Guide To Operations:
 
-The operations of a min Pairing heap are:
+The operations of the minimum pairing heap are:
 
 1- Insert( ) - It will insert a value in pairing heap.
 
