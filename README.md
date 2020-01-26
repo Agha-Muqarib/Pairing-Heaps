@@ -34,4 +34,8 @@ The operations of a min Pairing heap are:
 
 Contributors:
 
-1- Agha Muqarib - 
+1- Agha Muqarib - https://github.com/AghaMuqarib-2000
+
+2- Mansoor Ahmed - https://github.com/mansoorahmed-asterics
+
+3- Mirza Khizer - 
