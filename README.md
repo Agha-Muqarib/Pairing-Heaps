@@ -24,7 +24,7 @@ The operations of a min Pairing heap are:
 
 3- FindMin( ) -  Will return the minimum value in the Pairing heap.
 
-4- Delete( ) - Will Delete by using two pass method.
+4- Delete( ) - Will Delete a value by using two pass method.
 
 5- GetSize( ) - Will return the size of pairing heap.
 
