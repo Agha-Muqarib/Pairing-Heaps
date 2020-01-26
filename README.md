@@ -14,21 +14,21 @@ Advantages:
 
 Time complexity for different operations is less in pairing heaps as compared to other heaps like Fibonacci Heap ar a simple Binary Heap. Moreover,it is a an efficient form of a Fibonacci Heap.
 
-Operations:
+Guide To Operations:
 
 The operations of a min Pairing heap are:
 
-1- Insert()
+1- Insert( ) - It will insert a value in pairing heap.
 
-2- Merge()
+2- Merge( ) - It will merge the roots of two pairing heaps.
 
-3- FindMinimum()
+3- FindMin( ) -  Will return the minimum value in the Pairing heap.
 
-4- Delete()
+4- Delete( ) - Will Delete by using two pass method.
 
-5- GetSize()
+5- GetSize( ) - Will return the size of pairing heap.
 
-6- BubbleUp(). [This is basically the two pass method used for deleting]
+6- BubbleUp( ) -  This is the two pass method utilized for deleting.
 
 Contributors:
 
