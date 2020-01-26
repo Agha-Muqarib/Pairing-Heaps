@@ -32,3 +32,6 @@ The operations of a min Pairing heap are:
 
 6- BubbleUp().  [This is basically the two pass method used for deleting]
 
+Contributors:
+
+1- Agha Muqarib - 
