@@ -38,4 +38,4 @@ Contributors:
 
 2- Mansoor Ahmed - https://github.com/mansoorahmed-asterics
 
-3- Mirza Khizer -
+3- Mirza Khizer - https://github.com/mirzakhizar
