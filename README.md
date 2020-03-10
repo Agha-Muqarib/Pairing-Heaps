@@ -1,8 +1,8 @@
-Pairing Heaps:
+# Pairing Heaps:
 
 Pairing Heaps utilizes heap data structure to give efficient output with fast amortized time complexity.It is self adjusting,i.e. it can balance itself after an operation is performed.
 
-Types:
+## Types:
 
 Pairing Heap is of two types. 
 
@@ -12,11 +12,11 @@ Pairing Heap is of two types.
 
 Minimum pairing heap is implemented here.
 
-Advantages:
+## Advantages:
 
 Time complexity for different operations is less in pairing heaps as compared to other heaps like Fibonacci Heap or a simple Binary Heap atcetera. Moreover,it is a an efficient form of a Fibonacci Heap which makes it better from other heaps.
 
-Guide To Operations:
+## Guide To Operations:
 
 The operations of the minimum pairing heap are:
 
@@ -32,7 +32,7 @@ The operations of the minimum pairing heap are:
 
 6- BubbleUp( ) -  This is the two pass method utilized for deleting.
 
-Contributors:
+## Contributors:
 
 1- Agha Muqarib - https://github.com/AghaMuqarib-2000
 
