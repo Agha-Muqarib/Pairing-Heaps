@@ -4,7 +4,7 @@ Pairing Heaps utilizes heap data structure to give efficient output with fast am
 
 ## Types:
 
-Pairing Heap is of two types. 
+Pairing Heap is of two types:
 
 1- Minimium Pairing Heap.
 
@@ -14,7 +14,7 @@ Minimum pairing heap is implemented here.
 
 ## Advantages:
 
-Time complexity for different operations is less in pairing heaps as compared to other heaps like Fibonacci Heap or a simple Binary Heap atcetera. Moreover,it is a an efficient form of a Fibonacci Heap which makes it better from other heaps.
+Time complexity for different operations is less in pairing heaps as compared to other heaps like Fibonacci Heap or a simple Binary Heap atcetera. Moreover,it is an efficient form of a Fibonacci Heap which makes it better from other heaps.
 
 ## Guide To Operations:
 
