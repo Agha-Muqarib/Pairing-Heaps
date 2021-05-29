@@ -1,6 +1,6 @@
 # Pairing Heaps:
 
-Pairing Heaps utilizes heap data structure to give efficient output with fast amortized time complexity.It is self adjusting,i.e. it can balance itself after an operation is performed.
+Pairing Heaps utilizes heap data structure to give efficient output with fast amortized time complexity. It is self adjusting,i.e. it can balance itself after an operation is performed.
 
 ## Types:
 
@@ -14,7 +14,7 @@ Minimum pairing heap is implemented here.
 
 ## Advantages:
 
-Time complexity for different operations is less in pairing heaps as compared to other heaps like Fibonacci Heap or a simple Binary Heap atcetera. Moreover,it is an efficient form of a Fibonacci Heap which makes it better from other heaps.
+Time complexity for different operations is less in pairing heaps as compared to other heaps like Fibonacci Heap or a simple Binary Heap atcetera. Moreover, it is an efficient form of a Fibonacci Heap which makes it better from other heaps.
 
 ## Guide To Operations:
 
